@@ -12,14 +12,14 @@ Folio is a two-panel editor that generates clean, valid GitHub-flavored markdown
 - Satoshi font from Fontshare CDN for UI
 - Recoleta font from Fontshare for form section labels
 - JetBrains Mono from Google Fonts for markdown output
-- Marked.js markdown parser (embedded, no CDN)
+- Custom lightweight markdown parser
 
 ## Run locally
 
 Download or clone the repo. Open index.html in a browser. No build step required.
 
 ## Live demo
-placeholder text "https://"
+https://kingimperio.github.io/folio/
 
 ## Part of
 
